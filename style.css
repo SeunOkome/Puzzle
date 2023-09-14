@@ -1,0 +1,17 @@
+.grid-container{
+    display: grid;
+    gap:10;
+    grid-template-columns: repeat(4,1fr);
+}
+
+.grid-item-3{
+    grid columns: 1 / ;
+}
+
+.nav > ul > li{
+    float:right;
+    display:block;
+    color:aliceblue
+    padding: 10px;
+}
+.nav > ul
